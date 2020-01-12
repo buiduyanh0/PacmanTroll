@@ -2,8 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe9ed5b0-57b8-4f18-a67d-8d12a3384598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/ArrayEnemy$Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/ArrayEnemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/ArrayFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Downchaos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/GameFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/GameFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Leftchaos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/MainMenu$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/MainMenu$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/MainMenu$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Pacman$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Pacman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Rightchaos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Score$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Score$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Score$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/Upchaos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/creep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/ghost1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/ghost2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/ghost3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/ghost4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/score.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameJava/PacMangame/win.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/ArrayEnemy$Enemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/ArrayEnemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/ArrayFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Downchaos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/GameFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/GameFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/GameFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/GamePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Leftchaos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/MainMenu$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/MainMenu$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/MainMenu$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/MainMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Pacman$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Pacman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Rightchaos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Score$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Score$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Score$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/Upchaos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/creep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/ghost1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/ghost2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/ghost3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/ghost4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/score.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pacman-master/PacMangame/win.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +150,7 @@
       <workItem from="1578552804378" duration="2259000" />
       <workItem from="1578744913232" duration="661000" />
       <workItem from="1578746304313" duration="805000" />
-      <workItem from="1578841179492" duration="325000" />
+      <workItem from="1578841179492" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1578749274785</created>
@@ -91,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578749274785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1578841645590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578841645590</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
